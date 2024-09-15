@@ -1,2 +1,2 @@
 # landing-page
-Simply-landing-page with interactive gradient
+Simply-landing-page
